@@ -4,7 +4,7 @@
 # Nigel Gonzaga
 #
 # User Imput for variable time.
-Variabletime = float(input('How many hours were you driving? (an interger): '))
+Variabletime = float(input('How many hours were you driving? (must provide an interger): '))
 # Car's speed
 speed = 70
 #Distance variables
